@@ -1,6 +1,8 @@
 # MTPL
 
-This is the MATLAB code for the following paper: 
+**Notice: The code and supplement will be announced after camera ready.**
+
+
 
 Multi-Task Personalized Learning with Sparse Network Lasso. 
 
