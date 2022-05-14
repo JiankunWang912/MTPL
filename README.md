@@ -1,6 +1,6 @@
 # MTPL
 
-**Notice: The code and supplement will be announced after camera ready.**
+**Notice: The code and supplement will be released after camera ready.**
 
 
 
